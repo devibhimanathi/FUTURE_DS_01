@@ -1,4 +1,4 @@
-V# FUTURE_DS_01: Business Sales Performance Analytics
+FUTURE_DS_01: Business Sales Performance Analytics
 
 **Internship:** Future Interns, Data Science & Analytics, Task 1
 **Author:** B. Devi
